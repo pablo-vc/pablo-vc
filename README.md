@@ -1,4 +1,4 @@
-## I am a multiplatform developer in training, currently studying a Higher Vocational Training in Multiplatform Application Development, and, at the moment, I am developing an application as my final project.
+### I am a multiplatform developer in training, currently studying a Higher Vocational Training in Multiplatform Application Development, and, at the moment, I am developing an application as my final project.
 
 <!--
 **pablo-vc/pablo-vc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Technologies & Languages</h1>
 
-<p align="left">
-  <p align="center">
-    <img align="center" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/C%23.png" />
-    <img align="center" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Python.png" />
-    <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/PHP.png" />
-    <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/SQL.png" />
-    <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/HTML5.png" />
-    <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/CSS3.png" />
-    <img align="center" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/JavaScript.png" />
+<p align="center">
+    <img align="center" alt="C#" width="36px" src="https://github.com/user-attachments/assets/641cad73-7562-4146-8c43-a89ca4e77343" />
+    <img align="center" alt="Python" width="36px" src="https://github.com/user-attachments/assets/8463d85f-cf92-4c8d-a0e7-bbd9f7b77d42" />
+    <img align="center" alt="PHP" width="36px" src="https://github.com/user-attachments/assets/8df89d2b-3a86-4aea-8f96-ba91ec9d9ca0" />
+    <img align="center" alt="SQL" width="36px" src="https://github.com/user-attachments/assets/8e692d03-80c6-466e-a0e8-f5f376fd993a" />
+    <img align="center" alt="HTML 5" width="36px" src="https://github.com/user-attachments/assets/adf3fa28-6c27-4e50-a2d7-2e175a680a4e" />
+    <img align="center" alt="CSS 3" width="36px" src="https://github.com/user-attachments/assets/93e4b0d4-85c3-4c48-b3f8-8122e1f09591" />
+    <img align="center" alt="JavaScript" width="36px" src="https://github.com/user-attachments/assets/a406b912-2dc1-4d54-91de-2682f463a9e5" />
   </p>
 </p>
 
@@ -34,7 +33,8 @@ Here are some ideas to get you started:
 
 <p align="left">
   <p align="center">
-    <img align="center" alt="Visual Studio 2022" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudio2022.png" />
-    <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudioCode.png" />
+    <img align="center" alt="Visual Studio 2022" width="36px" src="https://github.com/user-attachments/assets/79538f8e-55a1-4dc7-b315-838cb97e279d" />
+    <img align="center" alt="Visual Studio 2022" width="36px" src="https://github.com/user-attachments/assets/87abc44e-77df-420d-ba5e-c7fe83aacee2" />
+    <img align="center" alt="Visual Studio Code" width="36px" src="https://github.com/user-attachments/assets/ddb8d851-7963-47af-9e4e-690d6f0dcc75" />
   </p>
 </p>
