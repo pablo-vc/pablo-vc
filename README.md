@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Technologies & Languages</h1>
 
 <p align="center">
+    <img align="center" alt="Java" width="46px" src="https://github.com/user-attachments/assets/653bef0e-4705-4fd8-aa6d-bd823253af91" />
     <img align="center" alt="C#" width="36px" src="https://github.com/user-attachments/assets/641cad73-7562-4146-8c43-a89ca4e77343" />
     <img align="center" alt="Python" width="36px" src="https://github.com/user-attachments/assets/8463d85f-cf92-4c8d-a0e7-bbd9f7b77d42" />
     <img align="center" alt="PHP" width="36px" src="https://github.com/user-attachments/assets/8df89d2b-3a86-4aea-8f96-ba91ec9d9ca0" />
@@ -35,6 +36,6 @@ Here are some ideas to get you started:
   <p align="center">
     <img align="center" alt="Visual Studio 2022" width="36px" src="https://github.com/user-attachments/assets/79538f8e-55a1-4dc7-b315-838cb97e279d" />
     <img align="center" alt="Visual Studio 2022" width="36px" src="https://github.com/user-attachments/assets/87abc44e-77df-420d-ba5e-c7fe83aacee2" />
-    <img align="center" alt="Visual Studio Code" width="36px" src="https://github.com/user-attachments/assets/ddb8d851-7963-47af-9e4e-690d6f0dcc75" />
+    <img align="center" alt="Android Studio" width="36px" src="https://github.com/user-attachments/assets/7e54e158-0bbd-45fd-a60f-6da9435b3e42" />
   </p>
 </p>
