@@ -1,5 +1,5 @@
 # About Me:
-### I am a multiplatform developer in training, currently studying a Higher Vocational Training in Multiplatform Application Development, and, at the moment, I am doing my intership at a company.
+### I'm a passionate Developer eager to contribute to large-scale international projects.
 
 
 # 💻 Tech Stack:
